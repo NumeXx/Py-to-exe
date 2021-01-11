@@ -4,5 +4,5 @@
 
 <h2>Requirements</h2>
 <pre>
-<span class="pl-k">&gt;</span> > pyinstaller
+<span class="pl-k">&gt;</span> pyinstaller
 </pre>
