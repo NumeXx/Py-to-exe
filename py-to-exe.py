@@ -1,5 +1,11 @@
 import os, sys, time
 
+try:
+    os.system("pip install pyinstaller")
+except:
+    os.system("pip install pyinstaller")
+
+os.system("cls || clear")
 print("#-------------------------------------#")
 print("[+] Python to exe By : NumeX")
 print("[+] Github : https://github.com/NumeXx")
